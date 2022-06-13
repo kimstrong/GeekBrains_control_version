@@ -107,4 +107,4 @@ git branch -d branch_name - удаление ветки
 
 
 
-git checkout -b branch_name - создание новой ветки и переход в нееasdasd
+git checkout -b branch_name - создание новой ветки и asdasd в нееasdasd
