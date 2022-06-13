@@ -72,7 +72,34 @@ https://habitica.fandom.com/ru/wiki/%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D
 
 [Файл с форматом txt](Пример2.txt)
 
+## **Таблицы**
 
+Тире - для разделения строк
+
+Труба | для столбцов
+
+|                  |Header 1 |Header 2|
+|------------------|---------|--------|
+|**First column A**|Cell 1A  |Cell 2A |
+|**First column B**|Cell 1B  |Cell 2B |
+
+
+Markdown игнорирует интервал:
+Letter|Digit|Character
+---|---|---
+a|4|$
+ |365|(
+b| |^  
+
+
+Двоеточие : используется для выравнивания столбца. Выравнивание по левому краю - это стандарт.
+
+Column | Column | Column
+:----- | :----: | -----:
+Left   | Center | Right
+align  | align  | align
+
+<br>
 
 ## **Инструкция Git. Команды**
 
