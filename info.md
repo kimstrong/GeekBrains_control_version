@@ -107,4 +107,4 @@ git branch -d branch_name - удаление ветки
 
 git branch -m master name_vetka -  переимменовывание ветки
 
-git checkout -b branch_name - создание новой ветки и переход в нееasdasd
+git checkout -b branch_name - создание новой ветки и переход в нее
