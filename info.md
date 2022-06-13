@@ -101,7 +101,7 @@ git branch - выводит список веток
 
 git branch branch_name - создание ветки
 
-git branch merge - 
+git merge branch_name - объединение веток
 
 git branch -d branch_name - удаление ветки
 
