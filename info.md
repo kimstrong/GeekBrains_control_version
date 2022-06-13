@@ -91,6 +91,8 @@ git diff - разница между сохраненным файлом (соз
 
 git log - журнал изменений
 
+git log --graph - журнал с визуализацией изменений
+
 git checkout - переход от одного коммита к другому
 
 git checkout master - вернуться к актуальному состоянию и продолжить работу
@@ -101,4 +103,8 @@ git branch branch_name - создание ветки
 
 git branch merge - 
 
+git branch -d branch_name - удаление ветки
+
 git branch -m master name_vetka -  переимменовывание ветки
+
+git checkout -b branch_name - создание новой ветки и переход в нее
